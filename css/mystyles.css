@@ -7882,3 +7882,10 @@ a.has-text-danger-dark:hover, a.has-text-danger-dark:focus {
 .footer {
   background-color: #fafafa;
   padding: 3rem 1.5rem 6rem; }
+
+#header-name{
+  font-size: 1.5rem;
+  font-family: Cormorant Garamond;
+  font-weight: bold;
+  color: #756967;
+}
