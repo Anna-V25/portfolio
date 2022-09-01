@@ -3046,7 +3046,10 @@ a.tag:hover {
     content: "\000b7"; }
   .breadcrumb.has-succeeds-separator li + li::before {
     content: "\0227B"; }
-
+.profile{
+  margin-top: 1rem;
+  margin-left: 1rem;
+}
 .card {
   background-color: white;
   border-radius: 0.25rem;
